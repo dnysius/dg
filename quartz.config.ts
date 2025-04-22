@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Source Sans Pro", // header: "Schibsted Grotesk", 
+        header: "Goudy Bookletter 1911", // header: "Schibsted Grotesk", 
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
